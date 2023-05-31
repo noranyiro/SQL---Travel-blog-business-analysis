@@ -9,9 +9,9 @@ Dilan is a world traveler and a solo entrepreneur. He writes a travel blog where
 On his blog he has thousands of readers every day, coming from three sources: Reddit, SEO and AdWords.
 Dilan writes about his travel experiences covering the 6 main continents of the planet - these are the main categories on the blog.
 The marketing budget per month:
-•	for Adwords advertisement (~$500 a month for paid ads),
-•	for SEO (~$250 a month for editing) and
-•	for Reddit (~$250 for content creation)
+ - for Adwords advertisement (~$500 a month for paid ads),
+ - for SEO (~$250 a month for editing) and
+ - for Reddit (~$250 for content creation)
 
 2)	TASK:
 Without specific business or analysis questions, the task was to provide actionable steps to improve the business efficiency of Dilan’s travel blog.
