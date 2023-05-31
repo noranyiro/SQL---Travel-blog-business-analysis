@@ -1,4 +1,4 @@
-# Travel-blog-business-improvement---SQL
+#  SQL Travel-blog-business-analysis
 Fictional hobby project - Junior Data Scientist Academy Final Task
 
 Disclaimer: this is not a real business. Any similarity to reality is purely coincidental.
